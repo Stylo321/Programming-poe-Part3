@@ -1,0 +1,41 @@
+{
+    "totalMessages": 4,
+    "messages": [
+        {
+            "encrypted": true,
+            "recipient": "+27834557896",
+            "messageID": "0684893824",
+            "message": "Ala%|jp%b`q%qm`%fdn`:",
+            "hash": "06:1:DIDCAKE?",
+            "timestamp": "2025-06-25 10:20:28",
+            "status": "Sent"
+        },
+        {
+            "encrypted": true,
+            "recipient": "+27838884567",
+            "messageID": "0815162764",
+            "message": "Rm`w`%dw`%|jp:\\jp%dw`%idq`$%l%mds`%dvn`a%|jp%qj%g`%jk%qlh`+",
+            "hash": "08:2:WHERETIME.",
+            "timestamp": "2025-06-25 10:21:44",
+            "status": "Stored"
+        },
+        {
+            "encrypted": true,
+            "recipient": "+27838884567",
+            "messageID": "7894561230",
+            "message": "Jn)%L%dh%i`dslkb%rlqmjpq%|jp+",
+            "hash": "78:3:OK,YOU.",
+            "timestamp": "2025-06-25 10:27:35",
+            "status": "Stored"
+        },
+        {
+            "encrypted": true,
+            "recipient": "+2789456123",
+            "messageID": "0838884567",
+            "message": "Lq%lv%alkk`w%qlh`$",
+            "hash": "08:4:ITTIME!",
+            "timestamp": "2025-06-25 10:53:20",
+            "status": "Sent"
+        }
+    ]
+}
